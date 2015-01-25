@@ -62,13 +62,13 @@ void StatisticsPage::updateStatistics()
     }
 
     QString subsidy = "";
-    if(pindexBest->nHeight < 100)
+    if(pindexBest->nHeight < 2)
     {
-        subsidy = "190000000 FZC";
+        subsidy = "500 FZC";
     }
-		else if(pindexBest->nHeight < 7200)
+		else if(pindexBest->nHeight < 10080)
     {
-        subsidy = "1000 FZC";
+        subsidy = "10 FZC";
     }
         else if(pindexBest->nHeight < 1000000000)
     {
