@@ -6,7 +6,7 @@
 | ------------- | ------------- |
 | Protocol  | POW/POW transitioning into POS only after 14 days  |
 | Block Time  | 2 minutes |
-| POW reward 500 Coins first 2 Blocks, 10 Coins per Block until Block 10,000
+| POW reward | 500 Coins first 2 Blocks, 10 Coins per Block until Block 10,000 |
 | Stake Block Reward  | 50,000 max  |
 | Stake  | 50,000-100,000% per year depending on difficulty  |
 | Stake Weight | 1/14 min/max days |
