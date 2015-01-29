@@ -1,11 +1,12 @@
 <h1>FirstZimbabweCoin</h1>
 <h4><i>Environmentally friendly, peer to peer digital currency</i></h4>
-<img src="http://s29.postimg.org/apqxr0es7/scroog.jpg" />
+<img src="http://s30.postimg.org/7pu2v942p/splash.png" />
 
 | Specification  | Details |
 | ------------- | ------------- |
-| Protocol  | 100% Proof-of-Stake (PoS)  |
+| Protocol  | POW/POW transitioning into POS only after 14 days  |
 | Block Time  | 2 minutes |
+| POW reward 500 Coins first 2 Blocks, 10 Coins per Block until Block 10,000
 | Stake Block Reward  | 50,000 max  |
 | Stake  | 50,000-100,000% per year depending on difficulty  |
 | Stake Weight | 1/14 min/max days |
